@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tools/roi-calculator?*
+
+Sitemap: https://ingeniousservices.com/sitemap-index.xml

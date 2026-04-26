@@ -1,0 +1,570 @@
+[
+  {
+    "path": "/about",
+    "title": "About Ingenious Services | AI Automation Built for Service Businesses | Ingenious Services",
+    "description": "We help US service businesses capture more revenue with AI-powered voice receptionists, lead automation, and CRM tools. No fluff — just results.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/about/",
+    "source": "pages/about/content.html"
+  },
+  {
+    "path": "/accounting",
+    "title": "AI for Accounting Firms | Tax Season Client Intake on Autopilot | Ingenious Services",
+    "description": "AI-powered client intake and lead qualification for accounting firms. Handle the tax season surge without burning out your staff.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/accounting/",
+    "source": "pages/accounting/content.html"
+  },
+  {
+    "path": "/blog/ai-receptionist-vs-human-receptionist",
+    "title": "AI Receptionist vs. Human Receptionist | Honest 2025 Comparison | Ingenious Services",
+    "description": "Compare AI vs. human receptionists for service businesses. Real cost analysis, coverage comparison, and honest assessment of where humans still win.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/blog/ai-receptionist-vs-human-receptionist/",
+    "source": "pages/blog/ai-receptionist-vs-human-receptionist/content.html"
+  },
+  {
+    "path": "/blog/dental-no-show-reduction",
+    "title": "How to Reduce Dental No-Shows with AI | From 22% to 11% No-Show Rate | Ingenious Services",
+    "description": "The average dental practice loses $182,000/year to no-shows. AI-powered reminder sequences cut no-show rates by 40-50%. Here's exactly how it works.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/blog/dental-no-show-reduction/",
+    "source": "pages/blog/dental-no-show-reduction/content.html"
+  },
+  {
+    "path": "/blog/hvac-missed-calls-cost",
+    "title": "How Much Do Missed Calls Cost HVAC Businesses? | Real Numbers | Ingenious Services",
+    "description": "HVAC companies lose $10,000–$25,000/month to missed calls. Here's the full breakdown — and how AI receptionist pays for itself in days, not months.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/blog/hvac-missed-calls-cost/",
+    "source": "pages/blog/hvac-missed-calls-cost/content.html"
+  },
+  {
+    "path": "/blog",
+    "title": "Blog | AI Automation Insights for Service Businesses | Ingenious Services",
+    "description": "Practical guides on AI voice receptionists, lead automation, and business growth for HVAC, dental, roofing, and 20+ service industries.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/blog/",
+    "source": "pages/blog/content.html"
+  },
+  {
+    "path": "/blog/speed-to-lead-service-business",
+    "title": "Speed to Lead for Service Businesses | Why 5 Minutes Matters | Ingenious Services",
+    "description": "Service businesses that respond to leads within 5 minutes are 21x more likely to convert. Most respond in 3+ hours. Here's how AI fixes the response gap.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/blog/speed-to-lead-service-business/",
+    "source": "pages/blog/speed-to-lead-service-business/content.html"
+  },
+  {
+    "path": "/car-dealerships",
+    "title": "AI Receptionist for Car Dealerships | Service Scheduling &amp; Sales Follow-Up | Ingenious Services",
+    "description": "AI-powered phone answering for car dealerships. Automate service scheduling, capture sales leads instantly, and never miss a call during peak hours or after closing.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/car-dealerships/",
+    "source": "pages/car-dealerships/content.html"
+  },
+  {
+    "path": "/chiropractic",
+    "title": "AI Receptionist for Chiropractic &amp; PT Clinics | Fill Your Schedule Automatically | Ingenious Services",
+    "description": "AI-powered scheduling and patient follow-up for chiropractic and physical therapy practices. Reduce no-shows and automate care plan follow-up.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/chiropractic/",
+    "source": "pages/chiropractic/content.html"
+  },
+  {
+    "path": "/construction",
+    "title": "AI for Construction Companies | Qualify Leads Before Your First Meeting | Ingenious Services",
+    "description": "AI-powered lead qualification and project intake for contractors. Stop chasing unqualified leads and focus on projects worth your team's time.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/construction/",
+    "source": "pages/construction/content.html"
+  },
+  {
+    "path": "/contact",
+    "title": "Contact Ingenious Services | Book a Free AI Demo | Ingenious Services",
+    "description": "Ready to stop losing revenue to missed calls? Book a free 20-minute demo with our team. We'll show you exactly how AI handles calls in your industry.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/contact/",
+    "source": "pages/contact/content.html"
+  },
+  {
+    "path": "/dental",
+    "title": "AI Receptionist for Dental Practices | Reduce No-Shows &amp; Grow Patient Base | Ingenious Services",
+    "description": "AI-powered phone answering for dental offices. Reduce no-shows by 38%, capture after-hours new patient calls, automate recall campaigns, and cut front-desk phone time by 60%.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/dental/",
+    "source": "pages/dental/content.html"
+  },
+  {
+    "path": "/es/about",
+    "title": "Acerca de Ingenious Services | Automatización IA para Negocios de Servicios | Ingenious Services",
+    "description": "Ayudamos a negocios de servicios en EE.UU. a capturar más ingresos con recepcionistas de voz IA, automatización de leads y herramientas CRM. Sin rodeos — solo resultados.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/about/",
+    "source": "pages/es/about/content.html"
+  },
+  {
+    "path": "/es/administracion-de-propiedades",
+    "title": "IA para Administradoras de Propiedades | Maneja Llamadas de Inquilinos 24/7 | Ingenious Services",
+    "description": "Automatización con IA para administradoras de propiedades. Maneja solicitudes de mantenimiento, consultas de inquilinos y emergencias las 24 horas del día.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/administracion-de-propiedades/",
+    "source": "pages/es/administracion-de-propiedades/content.html"
+  },
+  {
+    "path": "/es/agencias-de-seguros",
+    "title": "IA para Seguros | Seguimiento Automatizado de Cotizaciones y Renovaciones | Ingenious Services",
+    "description": "Automatización con IA para agencias de seguros. Sigue cotizaciones automáticamente, gestiona renovaciones de pólizas y nunca pierdas un lead por falta de seguimiento.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/agencias-de-seguros/",
+    "source": "pages/es/agencias-de-seguros/content.html"
+  },
+  {
+    "path": "/es/aire-acondicionado-plomeria",
+    "title": "IA para Empresas de Aire Acondicionado y Climatización | Nunca Pierdas una Llamada de Servicio | Ingenious Services",
+    "description": "Atención telefónica con IA para negocios de aire acondicionado, sistemas HVAC y climatización. Captura cada llamada de emergencia 24/7, agenda citas al instante y deja de perder ingresos por llamadas perdidas.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/aire-acondicionado-plomeria/",
+    "source": "pages/es/aire-acondicionado-plomeria/content.html"
+  },
+  {
+    "path": "/es/blog",
+    "title": "Blog | Perspectivas de Automatización IA para Negocios de Servicios | Ingenious Services",
+    "description": "Guías prácticas sobre recepcionistas de voz IA, automatización de leads y crecimiento empresarial para HVAC, dental, techado y más de 20 industrias de servicios.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/blog/",
+    "source": "pages/es/blog/content.html"
+  },
+  {
+    "path": "/es/bufetes-de-abogados",
+    "title": "IA para Bufetes | Nunca Pierdas una Llamada de Intake de Alto Valor | Ingenious Services",
+    "description": "Automatización con IA para bufetes de abogados. Captura cada llamada de intake de cliente potencial, califica casos 24/7 y nunca pierdas un cliente de alto valor a la competencia.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/bufetes-de-abogados/",
+    "source": "pages/es/bufetes-de-abogados/content.html"
+  },
+  {
+    "path": "/es/clinicas-dentales",
+    "title": "IA para Dentistas | Reduce No-Shows y Crece Tu Lista de Pacientes | Ingenious Services",
+    "description": "Automatización con IA para prácticas dentales. Responde cada llamada 24/7, reduce no-shows en 35% y llena tu agenda automáticamente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/clinicas-dentales/",
+    "source": "pages/es/clinicas-dentales/content.html"
+  },
+  {
+    "path": "/es/clinicas-veterinarias",
+    "title": "IA para Veterinarios | Reservaciones y Recordatorios de Clientes en Piloto Automático | Ingenious Services",
+    "description": "Automatización con IA para clínicas veterinarias. Agenda citas 24/7, envía recordatorios automáticos y maneja consultas de emergencia con compasión.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/clinicas-veterinarias/",
+    "source": "pages/es/clinicas-veterinarias/content.html"
+  },
+  {
+    "path": "/es/concesionarios-de-autos",
+    "title": "IA para Concesionarios | Automatiza Servicio y Seguimiento de Ventas | Ingenious Services",
+    "description": "Automatización con IA para concesionarios de autos. Captura leads 24/7, programa servicio automáticamente y aumenta las conversiones del departamento de ventas.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/concesionarios-de-autos/",
+    "source": "pages/es/concesionarios-de-autos/content.html"
+  },
+  {
+    "path": "/es/construccion",
+    "title": "IA para Construcción | Califica Leads Antes de Enviar Tu Equipo | Ingenious Services",
+    "description": "Automatización con IA para empresas de construcción. Califica leads automáticamente, programa estimaciones y aumenta la tasa de cierre sin más personal de ventas.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/construccion/",
+    "source": "pages/es/construccion/content.html"
+  },
+  {
+    "path": "/es/contabilidad-y-finanzas",
+    "title": "IA para Contadores | Intake de Clientes en Temporada de Impuestos en Piloto Automático | Ingenious Services",
+    "description": "Automatización con IA para firmas de contabilidad. Maneja el intake de clientes de temporada de impuestos automáticamente, programa consultas 24/7 y reduce el caos de temporada alta.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/contabilidad-y-finanzas/",
+    "source": "pages/es/contabilidad-y-finanzas/content.html"
+  },
+  {
+    "path": "/es/contact",
+    "title": "Contactar Ingenious Services | Reservar una Demo de IA Gratis | Ingenious Services",
+    "description": "¿Listo para dejar de perder ingresos por llamadas perdidas? Reserva una demo de 20 minutos con nuestro equipo. Te mostraremos exactamente cómo la IA maneja llamadas en tu industria.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/contact/",
+    "source": "pages/es/contact/content.html"
+  },
+  {
+    "path": "/es/control-de-plagas",
+    "title": "IA para Control de Plagas | Captura Leads Estacionales Antes Que la Competencia | Ingenious Services",
+    "description": "Automatización con IA para empresas de control de plagas. Responde leads estacionales al instante, programa inspecciones 24/7 y aumenta los contratos de servicio recurrente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/control-de-plagas/",
+    "source": "pages/es/control-de-plagas/content.html"
+  },
+  {
+    "path": "/es/funerarias",
+    "title": "IA para Funerarias | Primera Respuesta Compasiva y Siempre Disponible | Ingenious Services",
+    "description": "Automatización con IA para funerarias. Responde con compasión cada llamada de primera respuesta, 24/7, asegurando que ninguna familia quede sin atención cuando más lo necesita.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/funerarias/",
+    "source": "pages/es/funerarias/content.html"
+  },
+  {
+    "path": "/es/gimnasios-y-bienestar",
+    "title": "IA para Fitness | Convierte Leads en Membresías 24/7 | Ingenious Services",
+    "description": "Automatización con IA para gimnasios y estudios de bienestar. Convierte consultas en membresías, reduce cancelaciones y crece tu base de clientes automáticamente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/gimnasios-y-bienestar/",
+    "source": "pages/es/gimnasios-y-bienestar/content.html"
+  },
+  {
+    "path": "/es/hipotecas-y-titulos",
+    "title": "IA para Hipotecas | Automatización de Velocidad al Lead para Compradores Sensibles a Tasas | Ingenious Services",
+    "description": "Automatización con IA para empresas hipotecarias. Responde leads instantáneamente, califica compradores automáticamente y cierra más préstamos con seguimiento inteligente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/hipotecas-y-titulos/",
+    "source": "pages/es/hipotecas-y-titulos/content.html"
+  },
+  {
+    "path": "/es",
+    "title": "Ingenious Services — Automatización con IA para Negocios de Servicios | Ingenious Services",
+    "description": "Recepcionistas de voz con IA, seguimiento de leads y automatización empresarial para negocios de servicios para el hogar, dental, médico y profesionales. Deja de perder clientes por el buzón de voz.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/",
+    "source": "pages/es/content.html"
+  },
+  {
+    "path": "/es/medicina-estetica",
+    "title": "IA para Med Spas | Llena Tu Agenda de Reservaciones Automáticamente | Ingenious Services",
+    "description": "Automatización con IA para med spas. Captura cada solicitud de cita 24/7, reduce cancelaciones y convierte más consultas en clientes fieles.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/medicina-estetica/",
+    "source": "pages/es/medicina-estetica/content.html"
+  },
+  {
+    "path": "/es/optometria",
+    "title": "IA para Optometría | Recordatorios de Citas y Campañas de Recuerdo | Ingenious Services",
+    "description": "Automatización con IA para prácticas de optometría. Programa exámenes de ojos 24/7, reduce no-shows con recordatorios automáticos y ejecuta campañas de recuerdo anuales.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/optometria/",
+    "source": "pages/es/optometria/content.html"
+  },
+  {
+    "path": "/es/plomeria",
+    "title": "IA para Plomeros | Nunca Pierdas una Llamada de Plomería o Fontanería | Ingenious Services",
+    "description": "Atención telefónica con IA para negocios de plomería y fontanería. Captura cada llamada de emergencia 24/7 — tuberías reventadas, calentadores de agua, drenajes tapados — sin perder un cliente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/plomeria/",
+    "source": "pages/es/plomeria/content.html"
+  },
+  {
+    "path": "/es/products/ingenious-lead",
+    "title": "Ingenious Lead — Calificación y Generación de Leads con IA | Ingenious Services",
+    "description": "Automatización de calificación de leads con IA. Califica prospectos automáticamente, responde en 5 minutos y convierte más leads en clientes con seguimiento inteligente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/products/ingenious-lead/",
+    "source": "pages/es/products/ingenious-lead/content.html"
+  },
+  {
+    "path": "/es/products/ingenious-track",
+    "title": "Ingenious Track — Seguimiento y Automatización de Leads CRM | Ingenious Services",
+    "description": "Sistema de seguimiento de leads y automatización CRM. Centraliza todos tus leads, automatiza el seguimiento y cierra más negocios con menos esfuerzo manual.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/products/ingenious-track/",
+    "source": "pages/es/products/ingenious-track/content.html"
+  },
+  {
+    "path": "/es/products/ingenious-voice",
+    "title": "Ingenious Voice — Recepcionista de Voz IA | Ingenious Services",
+    "description": "Sistema de atención telefónica con IA que responde cada llamada 24/7, agenda citas y enruta llamadas inteligentemente. Nunca pierdas un lead por buzón de voz.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/products/ingenious-voice/",
+    "source": "pages/es/products/ingenious-voice/content.html"
+  },
+  {
+    "path": "/es/products/website-design",
+    "title": "Diseño Web para Negocios de Servicios — Hecho Para Ti por Ingenious Services | Ingenious Services",
+    "description": "Creamos sitios web enfocados en conversiones para HVAC, consultorios dentales, med spas, abogados y otros negocios de servicios. Sin plantillas. Sin WordPress. Solo un sitio rápido, mobile-first, listo para generar clientes desde el primer día.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/products/website-design/",
+    "source": "pages/es/products/website-design/content.html"
+  },
+  {
+    "path": "/es/quiropractica-y-fisioterapia",
+    "title": "IA para Quiropráctica y PT | Llena Tu Agenda, Reduce Gastos de Recepción | Ingenious Services",
+    "description": "Automatización con IA para prácticas quiroprácticas y de fisioterapia. Llena tu agenda, reduce no-shows y maneja el seguimiento de pacientes automáticamente.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/quiropractica-y-fisioterapia/",
+    "source": "pages/es/quiropractica-y-fisioterapia/content.html"
+  },
+  {
+    "path": "/es/reclutamiento-y-empleo",
+    "title": "IA para Reclutamiento | Preselección Automática de Candidatos a Escala | Ingenious Services",
+    "description": "Automatización con IA para agencias de reclutamiento. Preselecciona candidatos automáticamente, programa entrevistas 24/7 y escala tu flujo de trabajo sin agregar personal.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/reclutamiento-y-empleo/",
+    "source": "pages/es/reclutamiento-y-empleo/content.html"
+  },
+  {
+    "path": "/es/restaurantes",
+    "title": "IA para Restaurantes | Reservaciones, Catering y Seguimiento de Lealtad | Ingenious Services",
+    "description": "Automatización con IA para restaurantes. Maneja reservaciones 24/7, captura leads de catering y ejecuta programas de lealtad para aumentar visitas recurrentes.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/restaurantes/",
+    "source": "pages/es/restaurantes/content.html"
+  },
+  {
+    "path": "/es/services",
+    "title": "Servicios de Automatización IA para Cada Industria | Ingenious Services | Ingenious Services",
+    "description": "Explora recepcionistas de voz IA, automatización CRM y generación de leads para más de 20 verticales de negocios de servicios. Ve cómo servimos a tu industria específica.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/services/",
+    "source": "pages/es/services/content.html"
+  },
+  {
+    "path": "/es/techado-y-energia-solar",
+    "title": "IA para Techado y Solar | Respuesta Instantánea a Leads de Tormenta | Ingenious Services",
+    "description": "Automatización con IA para empresas de techado y solar. Captura leads de tormenta al instante, califica prospectos automáticamente y cierra más contratos.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/techado-y-energia-solar/",
+    "source": "pages/es/techado-y-energia-solar/content.html"
+  },
+  {
+    "path": "/es/tools",
+    "title": "Herramientas de IA | Calculadora de ROI y Evaluación de Preparación para IA | Ingenious Services",
+    "description": "Usa nuestras herramientas gratuitas para calcular el ROI potencial de automatización IA para tu negocio de servicios y evalúa tu preparación para IA.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/tools/",
+    "source": "pages/es/tools/content.html"
+  },
+  {
+    "path": "/es/transporte-y-logistica",
+    "title": "IA para Corredores de Fletes | Calificación de Leads de Transportistas y Cargadores | Ingenious Services",
+    "description": "Automatización con IA para corredores de fletes. Califica leads de transportistas y cargadores automáticamente, responde instantáneamente y escala tu operación sin personal adicional.",
+    "lang": "es",
+    "canonical": "https://ingeniousservices.com/es/transporte-y-logistica/",
+    "source": "pages/es/transporte-y-logistica/content.html"
+  },
+  {
+    "path": "/fitness",
+    "title": "AI for Fitness Studios | Convert Leads Into Members 24/7 | Ingenious Services",
+    "description": "AI-powered membership sales and class scheduling for fitness studios and gyms. Capture every inquiry and convert leads to memberships around the clock.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/fitness/",
+    "source": "pages/fitness/content.html"
+  },
+  {
+    "path": "/freight",
+    "title": "AI for Freight Brokers | Qualify Shippers &amp; Carriers Instantly | Ingenious Services",
+    "description": "AI-powered lead qualification for freight brokers. Respond to shipper inquiries instantly and qualify carrier capacity before wasting rep time.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/freight/",
+    "source": "pages/freight/content.html"
+  },
+  {
+    "path": "/funeral-homes",
+    "title": "AI First Response for Funeral Homes | Compassionate 24/7 Availability | Ingenious Services",
+    "description": "AI-powered compassionate first response for funeral homes. Provide always-available initial contact for families in their most difficult moments.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/funeral-homes/",
+    "source": "pages/funeral-homes/content.html"
+  },
+  {
+    "path": "/hvac",
+    "title": "AI Receptionist for HVAC Companies | Never Miss a Service Call | Ingenious Services",
+    "description": "AI-powered phone answering for HVAC businesses. Capture every emergency call 24/7, book appointments instantly, and stop losing $15K/month to missed calls.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/hvac/",
+    "source": "pages/hvac/content.html"
+  },
+  {
+    "path": "/",
+    "title": "Ingenious Services — AI Automation for Service Businesses",
+    "description": "AI-powered voice receptionists, lead tracking, and business automation for home services, dental, medical, and professional businesses. Stop losing customers to voicemail.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/",
+    "source": "pages/index.html"
+  },
+  {
+    "path": "/insurance",
+    "title": "AI for Insurance Agencies | Automate Quote Follow-Up &amp; Policy Renewal | Ingenious Services",
+    "description": "AI-powered lead response and policy renewal automation for insurance agencies. Respond to quote requests in seconds.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/insurance/",
+    "source": "pages/insurance/content.html"
+  },
+  {
+    "path": "/law-firms",
+    "title": "AI Intake for Law Firms | Never Miss a High-Value Intake Call | Ingenious Services",
+    "description": "AI-powered legal intake and lead qualification for personal injury and immigration law firms. Capture every inquiry and qualify before investing attorney time.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/law-firms/",
+    "source": "pages/law-firms/content.html"
+  },
+  {
+    "path": "/med-spas",
+    "title": "AI Receptionist for Med Spas | Fill Your Booking Calendar Automatically | Ingenious Services",
+    "description": "AI-powered booking and client retention for med spas and aesthetic clinics. Reduce no-shows by 40%, capture after-hours leads, and automate membership follow-up.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/med-spas/",
+    "source": "pages/med-spas/content.html"
+  },
+  {
+    "path": "/mortgage",
+    "title": "AI for Mortgage Companies | Speed-to-Lead for Rate-Sensitive Buyers | Ingenious Services",
+    "description": "AI-powered lead response for mortgage brokers and title companies. Respond to rate inquiries in seconds and automate the buyer journey.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/mortgage/",
+    "source": "pages/mortgage/content.html"
+  },
+  {
+    "path": "/optometry",
+    "title": "AI Receptionist for Optometry Practices | Exams Booked, Recalls Automated | Ingenious Services",
+    "description": "AI phone answering and recall automation for optometry practices. Fill your exam schedule and automate annual recall campaigns.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/optometry/",
+    "source": "pages/optometry/content.html"
+  },
+  {
+    "path": "/pest-control",
+    "title": "AI for Pest Control Companies | Capture Seasonal Leads Instantly | Ingenious Services",
+    "description": "AI-powered lead capture and scheduling for pest control companies. Never miss a call during spring ant season or fall rodent rushes.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/pest-control/",
+    "source": "pages/pest-control/content.html"
+  },
+  {
+    "path": "/plumbing",
+    "title": "AI Receptionist for Plumbers | Never Miss a Plumbing Call | Ingenious Services",
+    "description": "AI-powered phone answering for plumbing businesses. Capture every emergency call 24/7 — burst pipes, water heater failures, drain backups — and book jobs without lifting a finger.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/plumbing/",
+    "source": "pages/plumbing/content.html"
+  },
+  {
+    "path": "/privacy",
+    "title": "Privacy Policy | Ingenious Services | Ingenious Services",
+    "description": "Ingenious Services privacy policy — how we collect, use, and protect your data.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/privacy/",
+    "source": "pages/privacy/content.html"
+  },
+  {
+    "path": "/products/ingenious-lead",
+    "title": "Ingenious Lead — AI Lead Generation &amp; Follow-Up Automation | Ingenious Services",
+    "description": "Stop letting leads go cold. Ingenious Lead responds in seconds, qualifies automatically, and books appointments before competitors even pick up the phone.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/products/ingenious-lead/",
+    "source": "pages/products/ingenious-lead/content.html"
+  },
+  {
+    "path": "/products/ingenious-track",
+    "title": "Ingenious Track — AI Customer CRM for Service Businesses | Ingenious Services",
+    "description": "Stop losing customers in spreadsheets. Ingenious Track automatically logs every call and interaction, tracks your pipeline, and triggers smart follow-up.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/products/ingenious-track/",
+    "source": "pages/products/ingenious-track/content.html"
+  },
+  {
+    "path": "/products/ingenious-voice",
+    "title": "Ingenious Voice — AI Voice Receptionist for Service Businesses | Ingenious Services",
+    "description": "AI phone answering that never sleeps. Captures every call, books appointments, and routes intelligently — 24/7 for home services, dental, medical, and more.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/products/ingenious-voice/",
+    "source": "pages/products/ingenious-voice/content.html"
+  },
+  {
+    "path": "/products/website-design",
+    "title": "Website Design for Service Businesses — Done For You by Ingenious Services | Ingenious Services",
+    "description": "We build conversion-focused websites for HVAC, dental, med spa, law, and other service businesses. No templates. No WordPress. Just a fast, mobile-first site wired to generate leads from day one.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/products/website-design/",
+    "source": "pages/products/website-design/content.html"
+  },
+  {
+    "path": "/property-management",
+    "title": "AI Receptionist for Property Management | Tenant Calls Handled 24/7 | Ingenious Services",
+    "description": "AI-powered tenant communication and maintenance request handling. Reduce response times and free your team for complex issues.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/property-management/",
+    "source": "pages/property-management/content.html"
+  },
+  {
+    "path": "/recruiting",
+    "title": "AI for Recruiting &amp; Staffing Firms | Automate Candidate Screening | Ingenious Services",
+    "description": "AI-powered phone screening and lead follow-up for recruiting firms. Automate candidate intake, screen faster, and never miss a hot lead.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/recruiting/",
+    "source": "pages/recruiting/content.html"
+  },
+  {
+    "path": "/restaurants",
+    "title": "AI for Restaurant Groups | Reservations, Catering Leads &amp; Guest Follow-Up | Ingenious Services",
+    "description": "AI-powered reservation management and catering lead capture for restaurant groups. Reduce no-shows and systematize your private dining pipeline.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/restaurants/",
+    "source": "pages/restaurants/content.html"
+  },
+  {
+    "path": "/roofing-solar",
+    "title": "AI for Roofing &amp; Solar Companies | Capture Every Storm Lead Instantly | Ingenious Services",
+    "description": "AI-powered lead response for roofing and solar companies. Capture storm leads in seconds, book inspections automatically, and never lose a high-value prospect to slow follow-up.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/roofing-solar/",
+    "source": "pages/roofing-solar/content.html"
+  },
+  {
+    "path": "/services",
+    "title": "AI Automation Services for Every Industry | Ingenious Services | Ingenious Services",
+    "description": "Explore AI voice receptionists, CRM automation, and lead generation for 20+ service business verticals. See how we serve your specific industry.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/services/",
+    "source": "pages/services/content.html"
+  },
+  {
+    "path": "/terms",
+    "title": "Terms of Service | Ingenious Services | Ingenious Services",
+    "description": "Ingenious Services terms of service.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/terms/",
+    "source": "pages/terms/content.html"
+  },
+  {
+    "path": "/thanks",
+    "title": "Thank You | Ingenious Services | Ingenious Services",
+    "description": "Thank you for reaching out to Ingenious Services. We'll be in touch within 1 business day.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/thanks/",
+    "source": "pages/thanks/content.html"
+  },
+  {
+    "path": "/tools/ai-readiness",
+    "title": "AI Readiness Assessment | Is Your Service Business Ready for AI? | Ingenious Services",
+    "description": "Take our 5-question quiz to assess your business's AI readiness and get personalized recommendations for where AI automation delivers the most impact.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/tools/ai-readiness/",
+    "source": "pages/tools/ai-readiness/content.html"
+  },
+  {
+    "path": "/tools",
+    "title": "Free AI Tools for Service Businesses | ROI Calculator &amp; Readiness Assessment | Ingenious Services",
+    "description": "Calculate your AI ROI and assess your business readiness with our free tools. No email required — get instant results for your service business.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/tools/",
+    "source": "pages/tools/content.html"
+  },
+  {
+    "path": "/tools/roi-calculator",
+    "title": "AI ROI Calculator for Service Businesses | Free Tool | Ingenious Services",
+    "description": "Calculate your AI receptionist ROI in 60 seconds. Enter your call volume, average job value, and current receptionist costs — get instant revenue impact projections.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/tools/roi-calculator/",
+    "source": "pages/tools/roi-calculator/content.html"
+  },
+  {
+    "path": "/veterinary",
+    "title": "AI Receptionist for Veterinary Clinics | Appointment Booking on Autopilot | Ingenious Services",
+    "description": "AI phone answering for veterinary practices. Handle appointment requests, prescription refills, and emergency triage 24/7.",
+    "lang": "en",
+    "canonical": "https://ingeniousservices.com/veterinary/",
+    "source": "pages/veterinary/content.html"
+  }
+]
